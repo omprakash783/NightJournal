@@ -1,0 +1,33 @@
+#taskList label{
+    width: 80%;
+}
+#taskList li{
+    list-style-type: none;
+}
+.completed{
+
+}
+.incompleted label{
+    color: #afa7a7;
+    text-decoration: line-through;
+}
+#taskList .btn{
+    margin-left: 10px;
+}
+
+.box{
+	height:240px;
+	width:auto;
+	margin:20px;
+	padding: 40px;
+	background-color:LightBlue;
+}
+
+.box2{
+	display:block;
+	margin-top:50px;
+}
+
+#taskList{
+	margin-top:20px;
+}
